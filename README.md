@@ -190,6 +190,8 @@ icacls "C:\inetpub\wwwroot\osTicket\include\ost-config.php" /reset
 - Log in as a user → Create a ticket with a help topic  
 - Log in as an agent → Assign, triage, and resolve based on SLA severity (Sev-A, B, C)
 
+<br>
+
 ---
 
 ## Acknowledgments
