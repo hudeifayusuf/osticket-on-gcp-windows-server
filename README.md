@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/osTicket.png" alt="osTicket logo">
+</div>
+
 # Installing and Configuring osTicket on Windows Server
 
 Set up a fully functional osTicket helpdesk system hosted on a Windows Server virtual machine (VM) in Google Cloud Platform (GCP). This includes configuring IIS, PHP, MySQL, and related dependencies.
